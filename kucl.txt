@@ -1,2 +1,3 @@
+#!/bin/bash
 sudo mkdir /shivam
 sudo touch kucl.txt{1..20}
